@@ -1,2 +1,3 @@
 # digital-literacy-project-
+I'm Aarathi Ranjith, 25MIP10059 is my registration number. 
 The CSE0001 Digital Literacy project aims to develop important digital skills among students and build their capacity. It consists of five tasks that cover real life digital awareness, creating an online identity, coding, communication, and cyber safety. An infographic that explains digital literacy is created and the first profile is on GitHub or LinkedIn. A Google Form and basic coding practice are utilized to explore some collaboration tools. A checklist for email social media enhances communication capabilities At last, a case study and prevention guide which will make us safe. All the work is organized in GitHub with a detailed report.
