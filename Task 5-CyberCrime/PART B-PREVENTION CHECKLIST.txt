@@ -1,0 +1,8 @@
+- Do not share OTP, passwords, or personal details with anyone
+- Use strong and unique passwords for all accounts
+- Enable two-factor authentication wherever possible
+- Avoid clicking on unknown or suspicious links
+- Always verify websites before entering sensitive information
+- Do not use public Wi-Fi for banking or UPI transactions
+- Regularly check bank statements for unusual activity
+- Report cybercrime at cybercrime.gov.in or call helpline 1930

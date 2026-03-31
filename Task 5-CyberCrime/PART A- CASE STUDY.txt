@@ -1,0 +1,8 @@
+IDENTITY THEFT:
+Identity theft is a type of cybercrime where a person’s personal information is stolen and misused without their permission. This information may include bank details, passwords, Aadhaar number, or social media credentials.
+
+A common way identity theft occurs is through phishing emails or fake websites. For example, a student may receive an email pretending to be from a bank asking them to update their details. When the student enters their information, it gets collected by the attacker. The attacker can then use this data to access bank accounts, make unauthorized transactions, or create fake accounts.
+
+Students and young individuals are often targeted because they may not be fully aware of online risks. The consequences of identity theft can be serious, including financial loss, damage to reputation, and loss of personal data.
+
+In many cases, victims do not realize immediately that their identity has been stolen, which makes the situation worse. Therefore, it is important to stay alert and avoid sharing sensitive information online. Awareness and careful online behavior can help prevent such cybercrimes.
